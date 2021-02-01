@@ -1,2 +1,3 @@
-print("Hello from 1")
+print("Hello from1")
 # still from1
+print("Hi")
